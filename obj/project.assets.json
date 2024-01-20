@@ -88,6 +88,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Logics/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Logics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Logics.dll": {}
+        }
       }
     }
   },
@@ -429,10 +439,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Logics/1.0.0": {
+      "type": "project",
+      "path": "../Logics/Logics.csproj",
+      "msbuildProject": "../Logics/Logics.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Logics >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -462,7 +478,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\USER\\Documents\\GitHub\\Belajar\\Web API\\BudgetTrackerAPI\\Logics\\Logics.csproj": {
+              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Belajar\\Web API\\BudgetTrackerAPI\\Logics\\Logics.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
