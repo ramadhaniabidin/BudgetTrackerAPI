@@ -19,5 +19,12 @@ namespace BudgetTrackerAPI.Controllers
             var obj = _repo.GetAllExpenses();
             return Ok(obj);
         }
+
+        [HttpPost]
+        public IActionResult DeleteExpense([FromBody] int id)
+        {
+            var obj = _repo.DeleteExpense(id);
+            return Ok(obj);
+        }
     }
 }
