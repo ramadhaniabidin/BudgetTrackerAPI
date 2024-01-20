@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/vP22dHyfHA+M1au59cdZmX6YFn3h+QD7z5J4CiKjW3mLVsEj7rpFkJh2aL7KlzFDgkybhgl68DLz4NLuooJyQ==",
+  "dgSpecHash": "0IsYv7AQA4GrZnr5Ta2CkpEx2P1fA62i1QTGTaSkDonXc/Ir+eS/c5aPisgNFeK5gzj3FQYiwZIuetqv+n2oPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\Belajar\\Web API\\BudgetTrackerAPI\\BudgetTrackerAPI\\BudgetTrackerAPI.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,9 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.4\\microsoft.data.sqlclient.5.1.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.identity.client\\4.56.0\\microsoft.identity.client.4.56.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.56.0\\microsoft.identity.client.extensions.msal.4.56.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.24.0\\microsoft.identitymodel.abstractions.6.24.0.nupkg.sha512",

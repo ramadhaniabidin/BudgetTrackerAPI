@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace BudgetTrackerAPI.Controllers
 {
     [ApiController]
-    [Route("BudgetTrackerAPI/{controller}/{action}")]
+    [Route("BudgetTrackerAPI/[controller]/[action]")]
     public class ExpenseController : Controller
     {
         private IExpenseRepository _repo;
